@@ -35,4 +35,4 @@ This project offers a modern web interface that allows users to:
 This project is created **strictly for educational and UI demonstration purposes only**.
 
 ## 📌 Author
-Developed by **Hikmah**
+Developed by **Sk Gohith**

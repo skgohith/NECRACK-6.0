@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bypass Attendance & Exam Portal</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <canvas id="gridCanvas"></canvas>
+
+  <div class="container" role="main" aria-label="Bypass Attendance and Exam Portal Access">
+    <div class="glow-title">🔮 Bypass Attendance & Exam Portal</div>
+
+    <textarea
+      id="inputText"
+      rows="2"
+      placeholder="Enter Registration Number..."
+      spellcheck="false"
+      autocomplete="off"
+    ></textarea>
+
+    <div id="progressBarContainer">
+      <div id="progressBar"></div>
+    </div>
+
+    <div class="buttons">
+      <button onclick="generateURL('attendance')">🚀 Get Attendance</button>
+      <button onclick="generateURL('exam')">📊 Check Result</button>
+    </div>
+
+    <button id="darkModeToggle">Toggle Light Mode 🌗</button>
+  </div>
+
+  <div id="accessPopup">Access Granted ✅</div>
+
+  <!-- Sounds -->
+  <audio id="clickSound" src="https://actions.google.com/sounds/v1/ui/click.ogg"></audio>
+  <audio id="popupSound" src="https://actions.google.com/sounds/v1/alarms/beep_short.ogg"></audio>
+
+  <!-- JS -->
+  <script src="script.js"></script>
+</body>
+</html>

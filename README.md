@@ -21,7 +21,7 @@ This project demonstrates a modern cyber-style UI that simulates access to atten
 - JavaScript (Vanilla)
 
 ## 🌐 Live Demo
-👉 https://YOUR-USERNAME.github.io/bypass-attendance-portal/
+👉 https://skgohith.github.io/NECRACK-6.0/
 
 ## ⚠️ Disclaimer
 This project is created **strictly for educational and UI demonstration purposes only**.

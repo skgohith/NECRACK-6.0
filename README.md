@@ -15,6 +15,14 @@ This project demonstrates a modern cyber-style UI that simulates access to atten
 - Fully responsive design
 - Clean separation of HTML, CSS, and JavaScript
 
+## ⚙️ Main Functionality
+This project offers a modern web interface that allows users to:
+- Enter a registration number
+- Access attendance-related information
+- Access examination result information
+- Experience smooth UI animations and feedback
+- Use light and dark modes for improved user experience
+
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
